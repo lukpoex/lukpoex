@@ -1,13 +1,12 @@
 <h1 align="center">Full Stack Developer</h1>
-<h3 align="center">Experienced web/mobile full-stack developer with a proven track record of delivering high-quality, scalable applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lukpoex&label=Profile%20views&color=0e75b6&style=flat" alt="lukpoex" /> </p>
 
-- 💬 Ask me about  (React, Vue.js, Angular, Next.js, Nuxt.js, etc) and Django**
-- 🔭 Passionate Full Stack developer with 8+ years of experience designing and building scalable, high-performance web and mobile applications
+- 💬 Ask me about  React, Next.js and Django**
+- 🔭 Passionate full-stack developer with more than 4 years of experience in creating scalable, high-performance web and mobile applications
 - 👍 Experienced in DevOps, and Cloud infrastructure, especially with AWS and Azure
-- 😉 Deep knowledge about deep learning, recommendation system and reinforcement system.
-- 📫 How to reach me **darkhorse941019@gmail.com**
+- 😉 Proven track record of Blockchain development
+- 📫 How to reach me **lukpoex39@gmail.com**
 
 ## 💻 My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
@@ -25,17 +24,17 @@
       <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" />
       <br><b>TypeScript</b>
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="Go" width="48" height="48" />
-      <br><b>Go</b>
-    </td>
     <td align="center"  width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
       <br><b>Java</b>
     </td>
+    <td align="center"  width="96">
+      <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="Java" />
+      <br><b>AI</b>
+    </td>    
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-      <br><b>PHP</b>
+      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="48" height="48" />
+      <br><b>C#</b>
     </td>
     <td align="center" width="96"> 
       <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
@@ -51,10 +50,6 @@
     </td>
   </tr>
   <tr>
-    <td align="center"  width="96">
-      <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-      <br><b>Laravel</b>
-    </td>
     <td align="center" width="96">
       <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="48" height="48" alt="Next.js" />
       <br><b>Next.js</b>
@@ -86,6 +81,10 @@
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="48" height="48" alt="GraphQL" />
       <br><b>Spring</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="48" height="48" alt=".NET Core" />
+      <br><b>.NET Core</b>
     </td>
   </tr>
   <tr>
