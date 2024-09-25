@@ -147,5 +147,5 @@
   &nbsp
 </div>
 
-### ✍️ Dev qoutes
+### ✍️ Dev quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
