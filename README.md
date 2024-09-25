@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lukpoex&label=Profile%20views&color=0e75b6&style=flat" alt="lukpoex" /> </p>
 
-- 💬 Ask me about  React, Next.js and Django**
+- 💬 Ask me about  **React, Next.js and Django**
 - 🔭 Passionate full stack engineer with 4+ years of experience in creating scalable, high-performance web and mobile applications
 - 👍 Experienced in DevOps, and Cloud infrastructure, especially with AWS and Azure
 - 😉 Deep knowledge about deep learning, recommendation system and reinforcement system.
