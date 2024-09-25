@@ -5,7 +5,7 @@
 - 💬 Ask me about  React, Next.js and Django**
 - 🔭 Passionate full-stack developer with more than 4 years of experience in creating scalable, high-performance web and mobile applications
 - 👍 Experienced in DevOps, and Cloud infrastructure, especially with AWS and Azure
-- 😉 Proven track record of Blockchain development
+- 😉 Deep knowledge about deep learning, recommendation system and reinforcement system.
 - 📫 How to reach me **lukpoex39@gmail.com**
 
 ## 💻 My favorite tools and technologies
