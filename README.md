@@ -128,8 +128,8 @@
   
 ## Github Stats
 <p align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=lukpoex&show_icons=true&include_all_commits=true&count_private=true&theme=light&line_height=27">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukpoex&langs_count=8&layout=compact&theme=light&include_all_commits=true&line_height=27"> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=lukpoex&show_icons=true&include_all_commits=true&count_private=true&theme=light&line_height=27">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukpoex&langs_count=8&layout=compact&theme=light&include_all_commits=true&line_height=27">
 </p>
 
 ## Contacts
