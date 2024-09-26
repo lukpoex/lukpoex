@@ -133,11 +133,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukpoex&langs_count=8&layout=compact&theme=light&include_all_commits=true&line_height=27">
 </p>
 
-<p align="center" style="margin-bottom: 10px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=lukpoex&column=7&theme=light"/>
-</p>
-
-
 ## Contacts
 <div align="center"> 
   <a href="mailto:lukpoex39@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40" /></a>
