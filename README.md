@@ -1,5 +1,4 @@
 <h1 align="center">Full Stack Engineer</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lukpoex&label=Profile%20views&color=0e75b6&style=flat" alt="lukpoex" /> </p>
 
 - 💬 Ask me about  **React, Next.js and Django**
 - 🔭 Passionate full stack engineer with 4+ years of experience in creating scalable, high-performance web and mobile applications
