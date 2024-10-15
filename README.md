@@ -7,6 +7,21 @@
 - 😉 Deep knowledge about deep learning, recommendation system and reinforcement system.
 - 📫 How to reach me **lukpoex39@gmail.com**
 
+🏆 GitHub Statistics
+<p align="center">
+  <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=lukpoex&hide_border=true&theme=nightowl" />
+</p>
+<p align="center">
+    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=lukpoex&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukpoex&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
+</p>
+
+<hr/>
+
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=lukpoex&style=plastic&label=Views"><img>
+<img src="https://badges.pufler.dev/visits/lukpoex/lukpoex?color=black&logo=github" />
+</p>
+
 ## 💻 My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
