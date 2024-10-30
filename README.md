@@ -145,7 +145,9 @@
   <a href="mailto:lukpoex39@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40" /></a>
   &nbsp;
   <a href="https://join.skype.com/invite/live:.cid.cee5c420a8789ffb" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="40" /></a>
-  &nbsp
+  &nbsp;
+  <a href="https://www.linkedin.com/in/pavlo-markiyan-5b0981335/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/linkedin.png"  width="40" /></a>
+  &nbsp;
 </div>
 
 ### ✍️ Dev quotes
